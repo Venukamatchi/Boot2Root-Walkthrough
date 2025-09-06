@@ -1,4 +1,4 @@
-# ✅ Boot2Root Walkthrough — Debian 13 Challenge
+# ✅ Boot2Root Walkthrough
 
 ---
 
